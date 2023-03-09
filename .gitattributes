@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 *.gml linguist-detectable=true
-*.yacc linguist-detectable=false
+*.yy linguist-detectable=false
+*.yyp linguist-detectable=false
