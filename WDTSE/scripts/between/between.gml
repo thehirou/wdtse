@@ -4,6 +4,7 @@ This value checks if valcheck is between val1 and val2, if so it returns true.
 
 */
 
+//test
 
 function between(valcheck,val1,val2)
 {
